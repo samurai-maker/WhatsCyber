@@ -16,6 +16,7 @@ async function whatsCyber () {
     const conn = new WAConnection();
     const Session = new StringSession();  
     conn.version = [3, 3234, 9]
+    conn.browserDescription = ["WhatsCyber", "Chrome", "10.0"]
     conn.logger.level = 'warn';
     conn.regenerateQRIntervalMs = 50000;
 
