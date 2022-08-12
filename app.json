@@ -3,7 +3,7 @@
     "description": "WhatsCyber project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/c14faa46af2d062ea308d.jpg",
     "keywords": ["whatsapp", "userbot", "WhatsCyber", "WhatsCyber", "bot", "api", "ai", "WhatsCyber", "ai-bot", "WhatsCyber", "wabot", "wabot WhatsCyber", "wp bot"],
-    "repository": "https://github.com/FaridDadashzade/WhatsCyber",
+    "repository": "https://github.com/samurai-maker/WhatsCyber",
     "website":   "https://t.me/WhatsCyber",
     "success_url": "https://t.me/WhatsCyber",
     "stack": "container",
